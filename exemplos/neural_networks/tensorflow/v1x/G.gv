@@ -1,0 +1,10 @@
+digraph G {
+	graph [color=white fillcolor=white fontcolor="#414141" style=rounded]
+	node [color="#aaaaaa" fillcolor=white fontcolor="#414141" penwidth=2 style=filled]
+	edge [arrowsize=1.2 color="#aaaaaa" fontcolor="#414141" penwidth=2.5]
+	a [label=a]
+	b [label=b]
+	add [label=add]
+	a -> add [label=""]
+	b -> add [label=""]
+}

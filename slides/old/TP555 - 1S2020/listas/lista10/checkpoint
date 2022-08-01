@@ -1,3 +1,0 @@
-model_checkpoint_path: "my_logreg_model3"
-all_model_checkpoint_paths: "/tmp/my_logreg3_model.ckpt"
-all_model_checkpoint_paths: "my_logreg_model3"

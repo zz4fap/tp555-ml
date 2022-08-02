@@ -1,2 +1,2 @@
 # tp555-ml
-Material da disciplina TP555 - Inteligência Artificial e Machine Learning
+Material da disciplina de TP555 - Inteligência Artificial e Machine Learning

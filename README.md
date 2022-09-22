@@ -12,6 +12,8 @@ O material das aulas pode ser encontrado na pasta **slides** e pode ser acessado
 
 3. [Regressão Não-Linear](https://github.com/zz4fap/tp555-ml/blob/main/slides/TP555_Regress%C3%A3o_para_Modelos_N%C3%A3o_Lineares.pdf)
 
+4. [Classificação](https://github.com/zz4fap/tp555-ml/blob/main/slides/TP555_Classificadores.pdf)
+
 <img src="/figures/ml_logo1.png" width="100px"> <img src="/figures/inatel_logo.png" width="200px">
 
 Felipe Augusto Pereira de Figueiredo

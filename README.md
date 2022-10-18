@@ -16,7 +16,7 @@ O material das aulas pode ser encontrado na pasta **slides** e pode ser acessado
 
 5. [kNN](https://github.com/zz4fap/tp555-ml/blob/main/slides/TP555_kNN.pdf)
 
-6. [DT](https://github.com/zz4fap/tp555-ml/blob/main/slides/TP555_Decision_Trees)
+6. [DT](https://github.com/zz4fap/tp555-ml/blob/main/slides/TP555_Decision_Trees.pdf)
 
 <img src="/figures/ml_logo1.png" width="100px"> <img src="/figures/inatel_logo.png" width="200px">
 

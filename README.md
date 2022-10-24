@@ -16,7 +16,13 @@ O material das aulas pode ser encontrado na pasta **slides** e pode ser acessado
 
 5. [kNN](https://github.com/zz4fap/tp555-ml/blob/main/slides/TP555_kNN.pdf)
 
-6. [DT](https://github.com/zz4fap/tp555-ml/blob/main/slides/TP555_Decision_Trees.pdf)
+6. [Decision Trees](https://github.com/zz4fap/tp555-ml/blob/main/slides/TP555_Decision_Trees.pdf)
+
+7. [Ensemble Learning e Random Forests](https://github.com/zz4fap/tp555-ml/blob/main/slides/TP555_Ensemble_Learning_and_Random_Forests.pdf)
+
+8. [k-Means](https://github.com/zz4fap/tp555-ml/blob/main/slides/TP555_kMeans.pdf)
+
+9. [Redes Neurais Artificiais (Parte I)](https://github.com/zz4fap/tp555-ml/blob/main/slides/TP555_Redes_Neurais_Artificiais_parte_1.pdf)
 
 <img src="/figures/ml_logo1.png" width="100px"> <img src="/figures/inatel_logo.png" width="200px">
 

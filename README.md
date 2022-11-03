@@ -24,6 +24,9 @@ O material das aulas pode ser encontrado na pasta **slides** e pode ser acessado
 
 9. [Redes Neurais Artificiais (Parte I)](https://github.com/zz4fap/tp555-ml/blob/main/slides/TP555_Redes_Neurais_Artificiais_parte_1.pdf)
 
+10. [Redes Neurais Artificiais (Parte II)](https://github.com/zz4fap/tp555-ml/blob/main/slides/TP555_Redes_Neurais_Artificiais_parte_2.pdf)
+
+
 <img src="/figures/ml_logo1.png" width="100px"> <img src="/figures/inatel_logo.png" width="200px">
 
 Felipe Augusto Pereira de Figueiredo

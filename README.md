@@ -28,6 +28,10 @@ O material das aulas pode ser encontrado na pasta **slides** e pode ser acessado
 
 11. [Redes Neurais Artificiais com TensorFlow](https://github.com/zz4fap/tp555-ml/blob/main/slides/TP555_Treinando_RNAs_Com_tensorflow.pdf)
 
+12. [Máquina de Vetores de Suporte](https://github.com/zz4fap/tp555-ml/blob/main/slides/TP555_M%C3%A1quina_de_Vetores_de_Suporte.pdf)
+
+13. [Redução da Dimensionalidade](https://github.com/zz4fap/tp555-ml/blob/main/slides/TP555_Redu%C3%A7%C3%A3o_da_Dimensionalidade.pdf)
+
 
 <img src="/figures/ml_logo1.png" width="100px"> <img src="/figures/inatel_logo.png" width="200px">
 

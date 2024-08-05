@@ -32,6 +32,9 @@ O material das aulas pode ser encontrado na pasta **slides** e pode ser acessado
 
 13. [Redução da Dimensionalidade](https://github.com/zz4fap/tp555-ml/blob/main/slides/TP555_Redu%C3%A7%C3%A3o_da_Dimensionalidade.pdf)
 
+## Projeto final
+
+1. [Descrição do projeto final](https://github.com/zz4fap/tp555-ml/blob/main/projeto/TP555%20-%20Projeto%20Pr%C3%A1tico.pdf)
 
 <img src="/figures/ml_logo1.png" width="100px"> <img src="/figures/inatel_logo.png" width="200px">
 
